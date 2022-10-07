@@ -1,6 +1,6 @@
 # Welcome, I'm Brodie.
 ### Skills 
-HTML | CSS | Python | SQLITE3 | WebFlow 
+HTML | CSS | Python | SQL | WebFlow 
 
 ### Hobbies 
 Football | Skiing | Music | UI Design | Coding
